@@ -1,0 +1,720 @@
+[
+  {
+    "系统": "Collins Big Cat (Book Bands)",
+    "级别数量": 18,
+    "级别": [
+      {
+        "level": "Brown",
+        "lexile": -250.0,
+        "lexile_raw": "700–1200L"
+      },
+      {
+        "level": "Copper",
+        "lexile": -250.0,
+        "lexile_raw": "700–1200L"
+      },
+      {
+        "level": "Grey",
+        "lexile": -250.0,
+        "lexile_raw": "700–1200L"
+      },
+      {
+        "level": "Topaz",
+        "lexile": -250.0,
+        "lexile_raw": "700–1200L"
+      },
+      {
+        "level": "Orange",
+        "lexile": -175.0,
+        "lexile_raw": "350–700L"
+      },
+      {
+        "level": "Purple",
+        "lexile": -175.0,
+        "lexile_raw": "350–700L"
+      },
+      {
+        "level": "Turquoise",
+        "lexile": -175.0,
+        "lexile_raw": "350–700L"
+      },
+      {
+        "level": "Lilac",
+        "lexile": -150.0,
+        "lexile_raw": "BR–150L"
+      },
+      {
+        "level": "Pink A",
+        "lexile": -150.0,
+        "lexile_raw": "BR–150L"
+      },
+      {
+        "level": "Pink B",
+        "lexile": -150.0,
+        "lexile_raw": "BR–150L"
+      },
+      {
+        "level": "Red A",
+        "lexile": -150.0,
+        "lexile_raw": "BR–150L"
+      },
+      {
+        "level": "Red B",
+        "lexile": -150.0,
+        "lexile_raw": "BR–150L"
+      },
+      {
+        "level": "Blue",
+        "lexile": -125.0,
+        "lexile_raw": "150–400L"
+      },
+      {
+        "level": "Gold",
+        "lexile": -125.0,
+        "lexile_raw": "650–900L"
+      },
+      {
+        "level": "Green",
+        "lexile": -125.0,
+        "lexile_raw": "150–400L"
+      },
+      {
+        "level": "Lime",
+        "lexile": -125.0,
+        "lexile_raw": "650–900L"
+      },
+      {
+        "level": "White",
+        "lexile": -125.0,
+        "lexile_raw": "650–900L"
+      },
+      {
+        "level": "Yellow",
+        "lexile": -125.0,
+        "lexile_raw": "150–400L"
+      }
+    ]
+  },
+  {
+    "系统": "Fountas & Pinnell (F&P)",
+    "级别数量": 26,
+    "级别": [
+      {
+        "level": "A",
+        "lexile": -175.0,
+        "lexile_raw": "BR–175L (Emergent)"
+      },
+      {
+        "level": "B",
+        "lexile": -175.0,
+        "lexile_raw": "BR–175L (Emergent)"
+      },
+      {
+        "level": "C",
+        "lexile": -175.0,
+        "lexile_raw": "BR–175L (Emergent)"
+      },
+      {
+        "level": "D",
+        "lexile": -175.0,
+        "lexile_raw": "BR–175L (Emergent)"
+      },
+      {
+        "level": "E",
+        "lexile": -175.0,
+        "lexile_raw": "BR–175L (Emergent)"
+      },
+      {
+        "level": "K",
+        "lexile": -150.0,
+        "lexile_raw": "300–600L (Transitional)"
+      },
+      {
+        "level": "L",
+        "lexile": -150.0,
+        "lexile_raw": "300–600L (Transitional)"
+      },
+      {
+        "level": "M",
+        "lexile": -150.0,
+        "lexile_raw": "300–600L (Transitional)"
+      },
+      {
+        "level": "N",
+        "lexile": -150.0,
+        "lexile_raw": "300–600L (Transitional)"
+      },
+      {
+        "level": "O",
+        "lexile": -150.0,
+        "lexile_raw": "300–600L (Transitional)"
+      },
+      {
+        "level": "P",
+        "lexile": -125.0,
+        "lexile_raw": "600–850L (Fluent)"
+      },
+      {
+        "level": "Q",
+        "lexile": -125.0,
+        "lexile_raw": "600–850L (Fluent)"
+      },
+      {
+        "level": "R",
+        "lexile": -125.0,
+        "lexile_raw": "600–850L (Fluent)"
+      },
+      {
+        "level": "S",
+        "lexile": -125.0,
+        "lexile_raw": "600–850L (Fluent)"
+      },
+      {
+        "level": "T",
+        "lexile": -125.0,
+        "lexile_raw": "600–850L (Fluent)"
+      },
+      {
+        "level": "U",
+        "lexile": -125.0,
+        "lexile_raw": "850–1100L (Advanced)"
+      },
+      {
+        "level": "V",
+        "lexile": -125.0,
+        "lexile_raw": "850–1100L (Advanced)"
+      },
+      {
+        "level": "W",
+        "lexile": -125.0,
+        "lexile_raw": "850–1100L (Advanced)"
+      },
+      {
+        "level": "X",
+        "lexile": -125.0,
+        "lexile_raw": "850–1100L (Advanced)"
+      },
+      {
+        "level": "Y",
+        "lexile": -125.0,
+        "lexile_raw": "850–1100L (Advanced)"
+      },
+      {
+        "level": "Z",
+        "lexile": -125.0,
+        "lexile_raw": "850–1100L (Advanced)"
+      },
+      {
+        "level": "F",
+        "lexile": -100.0,
+        "lexile_raw": "150–350L (Early)"
+      },
+      {
+        "level": "G",
+        "lexile": -100.0,
+        "lexile_raw": "150–350L (Early)"
+      },
+      {
+        "level": "H",
+        "lexile": -100.0,
+        "lexile_raw": "150–350L (Early)"
+      },
+      {
+        "level": "I",
+        "lexile": -100.0,
+        "lexile_raw": "150–350L (Early)"
+      },
+      {
+        "level": "J",
+        "lexile": -100.0,
+        "lexile_raw": "150–350L (Early)"
+      }
+    ]
+  },
+  {
+    "系统": "I Can Read! (HarperCollins)",
+    "级别数量": 6,
+    "级别": [
+      {
+        "level": "Level 1",
+        "lexile": -200.0,
+        "lexile_raw": "BR–200L (intro to early reader)"
+      },
+      {
+        "level": "My First",
+        "lexile": -200.0,
+        "lexile_raw": "BR–200L (intro to early reader)"
+      },
+      {
+        "level": "My Very First",
+        "lexile": -200.0,
+        "lexile_raw": "BR–200L (intro to early reader)"
+      },
+      {
+        "level": "Level 2",
+        "lexile": -150.0,
+        "lexile_raw": "approx 200-500L"
+      },
+      {
+        "level": "Level 3",
+        "lexile": -150.0,
+        "lexile_raw": "approx 400-700L (early chapter readers)"
+      },
+      {
+        "level": "Level 4",
+        "lexile": -150.0,
+        "lexile_raw": "approx 600-900L (chapter readers)"
+      }
+    ]
+  },
+  {
+    "系统": "Pearson Bug Club",
+    "级别数量": 12,
+    "级别": [
+      {
+        "level": "Blue",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "Gold",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "Green",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "Lilac",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "Lime",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "Orange",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "Pink",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "Purple",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "Red",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "Turquoise",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "White",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      },
+      {
+        "level": "Yellow",
+        "lexile": NaN,
+        "lexile_raw": "approx varies by band (see Pearson Bug Club PDF)"
+      }
+    ]
+  },
+  {
+    "系统": "RAZ / Reading A-Z",
+    "级别数量": 32,
+    "级别": [
+      {
+        "level": "D",
+        "lexile": -185.0,
+        "lexile_raw": "160–530L (Grade1 致小学一年级)"
+      },
+      {
+        "level": "E",
+        "lexile": -185.0,
+        "lexile_raw": "160–530L (Grade1 致小学一年级)"
+      },
+      {
+        "level": "F",
+        "lexile": -185.0,
+        "lexile_raw": "160–530L (Grade1 致小学一年级)"
+      },
+      {
+        "level": "G",
+        "lexile": -185.0,
+        "lexile_raw": "160–530L (Grade1 致小学一年级)"
+      },
+      {
+        "level": "H",
+        "lexile": -185.0,
+        "lexile_raw": "160–530L (Grade1 致小学一年级)"
+      },
+      {
+        "level": "I",
+        "lexile": -185.0,
+        "lexile_raw": "160–530L (Grade1 致小学一年级)"
+      },
+      {
+        "level": "J",
+        "lexile": -185.0,
+        "lexile_raw": "160–530L (Grade1 致小学一年级)"
+      },
+      {
+        "level": "K",
+        "lexile": -170.0,
+        "lexile_raw": "510–850L (Grade2)"
+      },
+      {
+        "level": "L",
+        "lexile": -170.0,
+        "lexile_raw": "510–850L (Grade2)"
+      },
+      {
+        "level": "M",
+        "lexile": -170.0,
+        "lexile_raw": "510–850L (Grade2)"
+      },
+      {
+        "level": "N",
+        "lexile": -170.0,
+        "lexile_raw": "510–850L (Grade2)"
+      },
+      {
+        "level": "O",
+        "lexile": -170.0,
+        "lexile_raw": "510–850L (Grade2)"
+      },
+      {
+        "level": "P",
+        "lexile": -170.0,
+        "lexile_raw": "510–850L (Grade2)"
+      },
+      {
+        "level": "X",
+        "lexile": -155.0,
+        "lexile_raw": "810–1120L (Grade5+)"
+      },
+      {
+        "level": "Y",
+        "lexile": -155.0,
+        "lexile_raw": "810–1120L (Grade5+)"
+      },
+      {
+        "level": "Z",
+        "lexile": -155.0,
+        "lexile_raw": "810–1120L (Grade5+)"
+      },
+      {
+        "level": "Q",
+        "lexile": -140.0,
+        "lexile_raw": "660–940L (Grade3)"
+      },
+      {
+        "level": "R",
+        "lexile": -140.0,
+        "lexile_raw": "660–940L (Grade3)"
+      },
+      {
+        "level": "S",
+        "lexile": -140.0,
+        "lexile_raw": "660–940L (Grade3)"
+      },
+      {
+        "level": "T",
+        "lexile": -140.0,
+        "lexile_raw": "660–940L (Grade3)"
+      },
+      {
+        "level": "a",
+        "lexile": -115.0,
+        "lexile_raw": "BR-70–160L (K / 幼儿园)"
+      },
+      {
+        "level": "aa",
+        "lexile": -115.0,
+        "lexile_raw": "BR-70–160L (K / 幼儿园)"
+      },
+      {
+        "level": "b",
+        "lexile": -115.0,
+        "lexile_raw": "BR-70–160L (K / 幼儿园)"
+      },
+      {
+        "level": "c",
+        "lexile": -115.0,
+        "lexile_raw": "BR-70–160L (K / 幼儿园)"
+      },
+      {
+        "level": "U",
+        "lexile": -105.0,
+        "lexile_raw": "820–1030L (Grade4)"
+      },
+      {
+        "level": "V",
+        "lexile": -105.0,
+        "lexile_raw": "820–1030L (Grade4)"
+      },
+      {
+        "level": "W",
+        "lexile": -105.0,
+        "lexile_raw": "820–1030L (Grade4)"
+      },
+      {
+        "level": "Z1",
+        "lexile": -100.0,
+        "lexile_raw": "920–1120L (高级阶段，Grade5+ )"
+      },
+      {
+        "level": "Z2",
+        "lexile": -100.0,
+        "lexile_raw": "920–1120L (高级阶段，Grade5+ )"
+      },
+      {
+        "level": "A",
+        "lexile": NaN,
+        "lexile_raw": "nan"
+      },
+      {
+        "level": "B",
+        "lexile": NaN,
+        "lexile_raw": "nan"
+      },
+      {
+        "level": "C",
+        "lexile": NaN,
+        "lexile_raw": "nan"
+      }
+    ]
+  },
+  {
+    "系统": "Red Rocket Readers",
+    "级别数量": 15,
+    "级别": [
+      {
+        "level": "Emerald",
+        "lexile": -350.0,
+        "lexile_raw": "600–1300L (Advanced fluency / non-fiction)"
+      },
+      {
+        "level": "Gold (Fluency 4)",
+        "lexile": -350.0,
+        "lexile_raw": "600–1300L (Advanced fluency / non-fiction)"
+      },
+      {
+        "level": "Orange (Fluency 1)",
+        "lexile": -350.0,
+        "lexile_raw": "600–1300L (Advanced fluency / non-fiction)"
+      },
+      {
+        "level": "Purple (Fluency 3)",
+        "lexile": -350.0,
+        "lexile_raw": "600–1300L (Advanced fluency / non-fiction)"
+      },
+      {
+        "level": "Ruby",
+        "lexile": -350.0,
+        "lexile_raw": "600–1300L (Advanced fluency / non-fiction)"
+      },
+      {
+        "level": "Sapphire",
+        "lexile": -350.0,
+        "lexile_raw": "600–1300L (Advanced fluency / non-fiction)"
+      },
+      {
+        "level": "Silver",
+        "lexile": -350.0,
+        "lexile_raw": "600–1300L (Advanced fluency / non-fiction)"
+      },
+      {
+        "level": "Turquoise (Fluency 2)",
+        "lexile": -350.0,
+        "lexile_raw": "600–1300L (Advanced fluency / non-fiction)"
+      },
+      {
+        "level": "Blue (Early L3)",
+        "lexile": -200.0,
+        "lexile_raw": "approx 200–600L"
+      },
+      {
+        "level": "Green (Early L4)",
+        "lexile": -200.0,
+        "lexile_raw": "approx 200–600L"
+      },
+      {
+        "level": "Red (Early L1)",
+        "lexile": -200.0,
+        "lexile_raw": "approx 200–600L"
+      },
+      {
+        "level": "Yellow (Early L2)",
+        "lexile": -200.0,
+        "lexile_raw": "approx 200–600L"
+      },
+      {
+        "level": "Lilac",
+        "lexile": NaN,
+        "lexile_raw": "n/a / very low (Picture-led)"
+      },
+      {
+        "level": "Magenta (Emergent)",
+        "lexile": NaN,
+        "lexile_raw": "n/a / very low (Picture-led)"
+      },
+      {
+        "level": "Pink (Pre-reading)",
+        "lexile": NaN,
+        "lexile_raw": "n/a / very low (Picture-led)"
+      }
+    ]
+  },
+  {
+    "系统": "Step into Reading (Random House)",
+    "级别数量": 5,
+    "级别": [
+      {
+        "level": "Step 5",
+        "lexile": -200.0,
+        "lexile_raw": "approx 600-1000L (independent readers)"
+      },
+      {
+        "level": "Step 4",
+        "lexile": -150.0,
+        "lexile_raw": "approx 400-700L (Grade2-4)"
+      },
+      {
+        "level": "Step 3",
+        "lexile": -125.0,
+        "lexile_raw": "approx 250-500L (Grade1-2)"
+      },
+      {
+        "level": "Step 2",
+        "lexile": -100.0,
+        "lexile_raw": "approx 100-300L (K-1)"
+      },
+      {
+        "level": "Step 1",
+        "lexile": NaN,
+        "lexile_raw": "n/a - Picture support, big font (Preschool-K)"
+      }
+    ]
+  },
+  {
+    "系统": "牛津树 (Oxford Reading Tree)",
+    "级别数量": 20,
+    "级别": [
+      {
+        "level": "Level 10",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 11",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 12",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 13",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 14",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 15",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 16",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 17",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 18",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 19",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 20",
+        "lexile": -850.0,
+        "lexile_raw": "~600-1100L (approx)"
+      },
+      {
+        "level": "Level 7",
+        "lexile": -475.0,
+        "lexile_raw": "~300-650L (approx)"
+      },
+      {
+        "level": "Level 8",
+        "lexile": -475.0,
+        "lexile_raw": "~300-650L (approx)"
+      },
+      {
+        "level": "Level 9",
+        "lexile": -475.0,
+        "lexile_raw": "~300-650L (approx)"
+      },
+      {
+        "level": "Level 4",
+        "lexile": -237.5,
+        "lexile_raw": "~150-325L (approx)"
+      },
+      {
+        "level": "Level 5",
+        "lexile": -237.5,
+        "lexile_raw": "~150-325L (approx)"
+      },
+      {
+        "level": "Level 6",
+        "lexile": -237.5,
+        "lexile_raw": "~150-325L (approx)"
+      },
+      {
+        "level": "Level 2",
+        "lexile": -110.0,
+        "lexile_raw": "~50-170L (approx for low Oxford levels)"
+      },
+      {
+        "level": "Level 3",
+        "lexile": -110.0,
+        "lexile_raw": "~50-170L (approx for low Oxford levels)"
+      },
+      {
+        "level": "Level 1",
+        "lexile": NaN,
+        "lexile_raw": "~n/a (wordless / very low)"
+      }
+    ]
+  }
+]

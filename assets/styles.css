@@ -1,0 +1,62 @@
+
+:root{
+  --bg:#0b1020;
+  --card:#101735;
+  --muted:#9db1ff;
+  --text:#e9edff;
+  --accent:#6ea8ff;
+  --ok:#56d364;
+  --warn:#ffd35c;
+  --bad:#ff7b72;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;padding:24px;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: radial-gradient(1200px 600px at 10% -10%, #1a2558 0%, #0b1020 60%), var(--bg);
+  color:var(--text);
+}
+.container{max-width:1100px;margin:0 auto}
+.card{
+  background:linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.02));
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:18px;
+  box-shadow:0 10px 30px rgba(0,0,0,.3);
+  padding:20px;
+}
+h1{font-size:26px;margin:0 0 12px;letter-spacing:.5px}
+.sub{color:var(--muted);margin-bottom:18px}
+.grid{
+  display:grid;grid-template-columns: 1fr 1fr;gap:14px;
+}
+.row{
+  display:grid;grid-template-columns:1fr 1fr;gap:10px;
+  align-items:end;
+}
+select,button{
+  width:100%;padding:10px 12px;border-radius:12px;border:1px solid rgba(255,255,255,.15);
+  background:#0f1530;color:var(--text);
+  outline:none;
+}
+label{font-size:12px;color:var(--muted);margin-bottom:6px;display:block}
+button{
+  cursor:pointer;border:1px solid rgba(255,255,255,.18);
+  background:linear-gradient(180deg, #264d97, #1c3a74);
+  font-weight:600;letter-spacing:.2px;
+}
+button.secondary{background:transparent;border-color:rgba(255,255,255,.18)}
+.btns{display:flex;gap:12px;margin-top:12px;flex-wrap:wrap}
+.badge{display:inline-flex;align-items:center;gap:6px;padding:4px 8px;border-radius:999px;font-size:12px;border:1px solid rgba(255,255,255,.12);}
+.badge.ok{background:rgba(86,211,100,.1);border-color:rgba(86,211,100,.3)}
+.badge.warn{background:rgba(255,211,92,.1);border-color:rgba(255,211,92,.3)}
+.badge.bad{background:rgba(255,123,114,.1);border-color:rgba(255,123,114,.35)}
+.table{width:100%;border-collapse: collapse;margin-top:8px}
+.table th,.table td{border-bottom:1px solid rgba(255,255,255,.08);padding:8px 6px;text-align:left;font-size:14px}
+.kv{display:grid;grid-template-columns:160px 1fr;gap:8px;margin:12px 0 0}
+.kv div{padding:6px 0;border-bottom:1px dashed rgba(255,255,255,.08)}
+.footer{color:var(--muted);margin-top:16px;font-size:12px}
+hr{border:none;border-top:1px solid rgba(255,255,255,.08);margin:14px 0}
+.loading{opacity:.75}
+small.help{color:var(--muted);font-size:12px}
+.warntext{color:var(--warn)}
